@@ -1,1 +1,1 @@
-# JSGame
+# R-S-P-Game
